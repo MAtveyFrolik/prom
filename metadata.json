@@ -1,0 +1,6 @@
+{
+  "name": "PromZona",
+  "description": "Промышленный маркетплейс и B2B платформа для производства, услуг и строительства",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
